@@ -1,0 +1,22 @@
+# Operating system files
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Local environment variables
+.env
+.env.*
+!.env.example
+
+# Optional local tooling
+node_modules/
+.cache/
